@@ -1,1 +1,3 @@
 # Requirements-to-develop-Extreme-Fast-Charging-System
+This project presents a review of the requirements to develop extreme fast charging systems and an overview of the challenges and opportunities of XFCs using SST technology to facilitate the next step for future charging solution for future generation of EVs.
+It can be concluded that with the evolution of new power conversion topologies, new standards, advanced control schemes, fast acting protective devices, the improvements in wide bandgap (WBG) power devices, digital controllers and magnetic materials make the XFC stations that are capable to mimic refuelling like gas stations a possibility.
